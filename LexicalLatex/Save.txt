@@ -1,0 +1,1 @@
+\delta d_{f1}=\left ( 2\cdot \left (\delta k_{1}-\delta f\right )\cdot  g\cdot  T1\cdot \delta a_{1}\right )\cdot \frac{ 18\cdot  h\cdot \left ( 1+\left ( 2.1\cdot \delta a_{1}/\Delta \rho_{2}\right )\right )}{ 2\cdot  h\cdot \left ( 1+\left ( 3\cdot \delta a/\Delta b_{1}\right )\right )^ 2}
